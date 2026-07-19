@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,8 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
