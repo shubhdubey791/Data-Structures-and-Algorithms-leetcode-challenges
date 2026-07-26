@@ -25,10 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
