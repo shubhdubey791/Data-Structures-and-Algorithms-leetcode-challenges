@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,14 +35,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0633-sum-of-square-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shubhdubey791/Data-Structures-and-Algorithms-leetcode-challenges/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
